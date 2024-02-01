@@ -29,7 +29,7 @@ global.BotName = "techgoat";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕⁵® 🦋";                             //Do not change.
 global.author = "anonymix";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp";
 
 
 //
